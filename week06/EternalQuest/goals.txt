@@ -1,0 +1,2 @@
+0
+SimpleGoal|ball|good|67|False
